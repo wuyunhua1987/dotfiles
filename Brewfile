@@ -8,6 +8,8 @@ brew "bat"
 brew "eza"
 # User-friendly command-line shell for UNIX-like operating systems
 brew "fish"
+# Fast and simple Node.js version manager
+brew "fnm"
 # Command-line fuzzy finder written in Go
 brew "fzf"
 # Syntax-highlighting pager for git and diff output
@@ -16,8 +18,14 @@ brew "git-delta"
 brew "git-who"
 # Lightweight and flexible command-line JSON processor
 brew "jq"
+# Ambitious Vim-fork focused on extensibility and agility
+brew "neovim"
 # Search tool like grep and The Silver Searcher
 brew "ripgrep"
+# Install various Ruby versions and implementations
+brew "ruby-build"
+# Ruby version manager
+brew "rbenv"
 # Cross-shell prompt for astronauts
 brew "starship"
 # Organize software neatly under a single directory tree (e.g. /usr/local)
