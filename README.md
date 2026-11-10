@@ -7,5 +7,5 @@ brew bundle install
 brew bundle check
 brew bundle list
 brew bundle cleanup --dry-run
-stow -t ~ fish starship ghostty
+stow -t ~ fish starship ghostty nvim
 ```
