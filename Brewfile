@@ -16,6 +16,8 @@ brew "fzf"
 brew "git-delta"
 # Git blame for file trees
 brew "git-who"
+# Open source programming language to build simple/reliable/efficient software
+brew "go"
 # Lightweight and flexible command-line JSON processor
 brew "jq"
 # Ambitious Vim-fork focused on extensibility and agility
@@ -34,9 +36,7 @@ brew "stow"
 brew "tree"
 # Shell extension to navigate your filesystem faster
 brew "zoxide"
-cask "font-berkeley-mono"
 cask "font-maple-mono-nf-cn"
-cask "font-monocraft"
 cask "font-monolisa"
 # Terminal emulator that uses platform-native UI and GPU acceleration
 cask "ghostty"
